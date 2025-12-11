@@ -232,10 +232,8 @@ https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555
 [6] Peirce, C.S. (1931–1958). Collected Papers. Harvard UP.
 https://colorysemiotica.files.wordpress.com/2014/08/peirce-collectedpapers.pdf
 [7] Perez, C.E. (2022). Quaternion Process Theory. Medium.
-https://medium.com/intuitionmachine/the-quaternion-process-model-of-human-cognition-cd1f
-eeb0ab9d
+https://medium.com/intuitionmachine/the-quaternion-process-model-of-human-cognition-cd1feeb0ab9d
 [8] Perez, C.E. (2025). QPT Framework. Medium.
-https://medium.com/intuitionmachine/quaternion-process-theory-a-multi-dimensional-framew
-ork-for-understanding-cognition-bbb7b613d234
+https://medium.com/intuitionmachine/quaternion-process-theory-a-multi-dimensional-framework-for-understanding-cognition-bbb7b613d234
 [9] Wei, J. et al. (2023). Hierarchical Reasoning Model. arXiv:2305.12345.
 https://arxiv.org/abs/2305.12345
